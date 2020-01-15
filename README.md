@@ -1,1 +1,1 @@
-# lp-ele-socks
+# lp-electro-socks
